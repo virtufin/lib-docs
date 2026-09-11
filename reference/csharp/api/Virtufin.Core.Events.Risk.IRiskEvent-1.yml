@@ -16,7 +16,7 @@ items:
     remote:
       path: src/Virtufin.Core/Events/Risk/IRiskEvent.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: IRiskEvent
     path: ../../../src/Virtufin.Core/Events/Risk/IRiskEvent.cs
     startLine: 9

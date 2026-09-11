@@ -17,7 +17,7 @@ items:
     remote:
       path: src/Virtufin.Base/Clock/Metronome.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: Metronome
     path: ../../../src/Virtufin.Base/Clock/Metronome.cs
     startLine: 60
@@ -59,7 +59,7 @@ items:
     remote:
       path: src/Virtufin.Base/Clock/Metronome.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: CreateDateTimeWallClock
     path: ../../../src/Virtufin.Base/Clock/Metronome.cs
     startLine: 68

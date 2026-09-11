@@ -21,7 +21,7 @@ items:
     remote:
       path: src/Virtufin.Core/Registry.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: Registry
     path: ../../../src/Virtufin.Core/Registry.cs
     startLine: 2
@@ -58,7 +58,7 @@ items:
     remote:
       path: src/Virtufin.Core/Registry.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: .ctor
     path: ../../../src/Virtufin.Core/Registry.cs
     startLine: 7
@@ -87,7 +87,7 @@ items:
     remote:
       path: src/Virtufin.Core/Registry.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: AddObservableProvider
     path: ../../../src/Virtufin.Core/Registry.cs
     startLine: 11
@@ -116,7 +116,7 @@ items:
     remote:
       path: src/Virtufin.Core/Registry.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: AddValueProvider
     path: ../../../src/Virtufin.Core/Registry.cs
     startLine: 16
@@ -145,7 +145,7 @@ items:
     remote:
       path: src/Virtufin.Core/Registry.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: GetValue
     path: ../../../src/Virtufin.Core/Registry.cs
     startLine: 22
@@ -186,7 +186,7 @@ items:
     remote:
       path: src/Virtufin.Core/Registry.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: GetObservable
     path: ../../../src/Virtufin.Core/Registry.cs
     startLine: 29

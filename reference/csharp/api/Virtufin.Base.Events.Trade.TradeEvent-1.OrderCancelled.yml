@@ -22,7 +22,7 @@ items:
     remote:
       path: src/Virtufin.Base/Events/Trade/TradeEvent.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: OrderCancelled
     path: ../../../src/Virtufin.Base/Events/Trade/TradeEvent.cs
     startLine: 45
@@ -68,7 +68,7 @@ items:
     remote:
       path: src/Virtufin.Base/Events/Trade/TradeEvent.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: Action
     path: ../../../src/Virtufin.Base/Events/Trade/TradeEvent.cs
     startLine: 48
@@ -102,7 +102,7 @@ items:
     remote:
       path: src/Virtufin.Base/Events/Trade/TradeEvent.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: OrderId
     path: ../../../src/Virtufin.Base/Events/Trade/TradeEvent.cs
     startLine: 50
@@ -135,7 +135,7 @@ items:
     remote:
       path: src/Virtufin.Base/Events/Trade/TradeEvent.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: CancelledAt
     path: ../../../src/Virtufin.Base/Events/Trade/TradeEvent.cs
     startLine: 52
@@ -168,7 +168,7 @@ items:
     remote:
       path: src/Virtufin.Base/Events/Trade/TradeEvent.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: Time
     path: ../../../src/Virtufin.Base/Events/Trade/TradeEvent.cs
     startLine: 54
@@ -202,7 +202,7 @@ items:
     remote:
       path: src/Virtufin.Base/Events/Trade/TradeEvent.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: Reason
     path: ../../../src/Virtufin.Base/Events/Trade/TradeEvent.cs
     startLine: 56
@@ -235,7 +235,7 @@ items:
     remote:
       path: src/Virtufin.Base/Events/Trade/TradeEvent.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: .ctor
     path: ../../../src/Virtufin.Base/Events/Trade/TradeEvent.cs
     startLine: 59

@@ -18,7 +18,7 @@ items:
     remote:
       path: src/Virtufin.Core/Events/Position/IPositionEvent.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: IPositionEvent
     path: ../../../src/Virtufin.Core/Events/Position/IPositionEvent.cs
     startLine: 11
@@ -71,7 +71,7 @@ items:
     remote:
       path: src/Virtufin.Core/Events/Position/IPositionEvent.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: Symbol
     path: ../../../src/Virtufin.Core/Events/Position/IPositionEvent.cs
     startLine: 15
@@ -104,7 +104,7 @@ items:
     remote:
       path: src/Virtufin.Core/Events/Position/IPositionEvent.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: DeltaQuantity
     path: ../../../src/Virtufin.Core/Events/Position/IPositionEvent.cs
     startLine: 18

@@ -23,7 +23,7 @@ items:
     remote:
       path: src/Virtufin.Base/PositionSize.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: PositionSize
     path: ../../../src/Virtufin.Base/PositionSize.cs
     startLine: 10
@@ -64,7 +64,7 @@ items:
     remote:
       path: src/Virtufin.Base/PositionSize.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: .ctor
     path: ../../../src/Virtufin.Base/PositionSize.cs
     startLine: 10
@@ -110,7 +110,7 @@ items:
     remote:
       path: src/Virtufin.Base/PositionSize.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: Quote
     path: ../../../src/Virtufin.Base/PositionSize.cs
     startLine: 10
@@ -141,7 +141,7 @@ items:
     remote:
       path: src/Virtufin.Base/PositionSize.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: Multiplier
     path: ../../../src/Virtufin.Base/PositionSize.cs
     startLine: 10
@@ -172,7 +172,7 @@ items:
     remote:
       path: src/Virtufin.Base/PositionSize.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: Divisor
     path: ../../../src/Virtufin.Base/PositionSize.cs
     startLine: 10
@@ -203,7 +203,7 @@ items:
     remote:
       path: src/Virtufin.Base/PositionSize.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: Of
     path: ../../../src/Virtufin.Base/PositionSize.cs
     startLine: 14
@@ -240,7 +240,7 @@ items:
     remote:
       path: src/Virtufin.Base/PositionSize.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: Value
     path: ../../../src/Virtufin.Base/PositionSize.cs
     startLine: 17
@@ -271,7 +271,7 @@ items:
     remote:
       path: src/Virtufin.Base/PositionSize.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: Add
     path: ../../../src/Virtufin.Base/PositionSize.cs
     startLine: 20

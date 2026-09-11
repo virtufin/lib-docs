@@ -17,7 +17,7 @@ items:
     remote:
       path: src/Virtufin.Core/Events/IEvent.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: IEvent
     path: ../../../src/Virtufin.Core/Events/IEvent.cs
     startLine: 11
@@ -109,7 +109,7 @@ items:
     remote:
       path: src/Virtufin.Core/Events/IEvent.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: Time
     path: ../../../src/Virtufin.Core/Events/IEvent.cs
     startLine: 15

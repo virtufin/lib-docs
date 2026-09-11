@@ -25,7 +25,7 @@ items:
     remote:
       path: src/Virtufin.Core/Events/CloudEvent.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: CloudEvent
     path: ../../../src/Virtufin.Core/Events/CloudEvent.cs
     startLine: 11
@@ -74,7 +74,7 @@ items:
     remote:
       path: src/Virtufin.Core/Events/CloudEvent.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: Id
     path: ../../../src/Virtufin.Core/Events/CloudEvent.cs
     startLine: 14
@@ -105,7 +105,7 @@ items:
     remote:
       path: src/Virtufin.Core/Events/CloudEvent.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: Source
     path: ../../../src/Virtufin.Core/Events/CloudEvent.cs
     startLine: 17
@@ -136,7 +136,7 @@ items:
     remote:
       path: src/Virtufin.Core/Events/CloudEvent.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: Type
     path: ../../../src/Virtufin.Core/Events/CloudEvent.cs
     startLine: 20
@@ -167,7 +167,7 @@ items:
     remote:
       path: src/Virtufin.Core/Events/CloudEvent.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: Subject
     path: ../../../src/Virtufin.Core/Events/CloudEvent.cs
     startLine: 23
@@ -198,7 +198,7 @@ items:
     remote:
       path: src/Virtufin.Core/Events/CloudEvent.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: Time
     path: ../../../src/Virtufin.Core/Events/CloudEvent.cs
     startLine: 26
@@ -229,7 +229,7 @@ items:
     remote:
       path: src/Virtufin.Core/Events/CloudEvent.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: DataContentType
     path: ../../../src/Virtufin.Core/Events/CloudEvent.cs
     startLine: 29
@@ -260,7 +260,7 @@ items:
     remote:
       path: src/Virtufin.Core/Events/CloudEvent.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: DataSchema
     path: ../../../src/Virtufin.Core/Events/CloudEvent.cs
     startLine: 32
@@ -291,7 +291,7 @@ items:
     remote:
       path: src/Virtufin.Core/Events/CloudEvent.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: Data
     path: ../../../src/Virtufin.Core/Events/CloudEvent.cs
     startLine: 35
@@ -322,7 +322,7 @@ items:
     remote:
       path: src/Virtufin.Core/Events/CloudEvent.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: Extensions
     path: ../../../src/Virtufin.Core/Events/CloudEvent.cs
     startLine: 38

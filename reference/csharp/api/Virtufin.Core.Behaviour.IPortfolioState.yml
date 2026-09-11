@@ -16,7 +16,7 @@ items:
     remote:
       path: src/Virtufin.Core/Behaviour/IPortfolioState.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: IPortfolioState
     path: ../../../src/Virtufin.Core/Behaviour/IPortfolioState.cs
     startLine: 9

@@ -20,7 +20,7 @@ items:
     remote:
       path: src/Virtufin.Base/Execution/Executors.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: SlippageExecutorBase
     path: ../../../src/Virtufin.Base/Execution/Executors.cs
     startLine: 111
@@ -81,7 +81,7 @@ items:
     remote:
       path: src/Virtufin.Base/Execution/Executors.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: Initial
     path: ../../../src/Virtufin.Base/Execution/Executors.cs
     startLine: 118
@@ -116,7 +116,7 @@ items:
     remote:
       path: src/Virtufin.Base/Execution/Executors.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: CalculateSlippage
     path: ../../../src/Virtufin.Base/Execution/Executors.cs
     startLine: 138
@@ -174,7 +174,7 @@ items:
     remote:
       path: src/Virtufin.Base/Execution/Executors.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: Process
     path: ../../../src/Virtufin.Base/Execution/Executors.cs
     startLine: 156
@@ -231,7 +231,7 @@ items:
     remote:
       path: src/Virtufin.Base/Execution/Executors.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: ExecuteAsync
     path: ../../../src/Virtufin.Base/Execution/Executors.cs
     startLine: 160

@@ -21,7 +21,7 @@ items:
     remote:
       path: src/Virtufin.Base/State.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: State
     path: ../../../src/Virtufin.Base/State.cs
     startLine: 8
@@ -62,7 +62,7 @@ items:
     remote:
       path: src/Virtufin.Base/State.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: TransactionsList
     path: ../../../src/Virtufin.Base/State.cs
     startLine: 11
@@ -93,7 +93,7 @@ items:
     remote:
       path: src/Virtufin.Base/State.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: Transactions
     path: ../../../src/Virtufin.Base/State.cs
     startLine: 14
@@ -126,7 +126,7 @@ items:
     remote:
       path: src/Virtufin.Base/State.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: Of
     path: ../../../src/Virtufin.Base/State.cs
     startLine: 20
@@ -163,7 +163,7 @@ items:
     remote:
       path: src/Virtufin.Base/State.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: Of
     path: ../../../src/Virtufin.Base/State.cs
     startLine: 23
@@ -199,7 +199,7 @@ items:
     remote:
       path: src/Virtufin.Base/State.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: Empty
     path: ../../../src/Virtufin.Base/State.cs
     startLine: 27

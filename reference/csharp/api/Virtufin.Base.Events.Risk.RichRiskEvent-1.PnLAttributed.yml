@@ -21,7 +21,7 @@ items:
     remote:
       path: src/Virtufin.Base/Events/Risk/RichRiskEvent.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: PnLAttributed
     path: ../../../src/Virtufin.Base/Events/Risk/RichRiskEvent.cs
     startLine: 24
@@ -67,7 +67,7 @@ items:
     remote:
       path: src/Virtufin.Base/Events/Risk/RichRiskEvent.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: Event
     path: ../../../src/Virtufin.Base/Events/Risk/RichRiskEvent.cs
     startLine: 27
@@ -100,7 +100,7 @@ items:
     remote:
       path: src/Virtufin.Base/Events/Risk/RichRiskEvent.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: ScenarioName
     path: ../../../src/Virtufin.Base/Events/Risk/RichRiskEvent.cs
     startLine: 29
@@ -133,7 +133,7 @@ items:
     remote:
       path: src/Virtufin.Base/Events/Risk/RichRiskEvent.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: RunId
     path: ../../../src/Virtufin.Base/Events/Risk/RichRiskEvent.cs
     startLine: 31
@@ -166,7 +166,7 @@ items:
     remote:
       path: src/Virtufin.Base/Events/Risk/RichRiskEvent.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: Time
     path: ../../../src/Virtufin.Base/Events/Risk/RichRiskEvent.cs
     startLine: 33
@@ -200,7 +200,7 @@ items:
     remote:
       path: src/Virtufin.Base/Events/Risk/RichRiskEvent.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: .ctor
     path: ../../../src/Virtufin.Base/Events/Risk/RichRiskEvent.cs
     startLine: 36

@@ -20,7 +20,7 @@ items:
     remote:
       path: src/Virtufin.Data/WebSocketObservable.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: WebSocketObservable
     path: ../../../src/Virtufin.Data/WebSocketObservable.cs
     startLine: 4
@@ -57,7 +57,7 @@ items:
     remote:
       path: src/Virtufin.Data/WebSocketObservable.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: .ctor
     path: ../../../src/Virtufin.Data/WebSocketObservable.cs
     startLine: 9
@@ -89,7 +89,7 @@ items:
     remote:
       path: src/Virtufin.Data/WebSocketObservable.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: Subscribe
     path: ../../../src/Virtufin.Data/WebSocketObservable.cs
     startLine: 15
@@ -129,7 +129,7 @@ items:
     remote:
       path: src/Virtufin.Data/WebSocketObservable.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: Start
     path: ../../../src/Virtufin.Data/WebSocketObservable.cs
     startLine: 79
@@ -167,7 +167,7 @@ items:
     remote:
       path: src/Virtufin.Data/WebSocketObservable.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: Start
     path: ../../../src/Virtufin.Data/WebSocketObservable.cs
     startLine: 83

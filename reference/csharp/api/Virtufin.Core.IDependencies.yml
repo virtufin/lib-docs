@@ -16,7 +16,7 @@ items:
     remote:
       path: src/Virtufin.Core/IDependencies.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: IDependencies
     path: ../../../src/Virtufin.Core/IDependencies.cs
     startLine: 1

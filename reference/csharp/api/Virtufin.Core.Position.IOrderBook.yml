@@ -18,7 +18,7 @@ items:
     remote:
       path: src/Virtufin.Core/Position/IOrderBook.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: IOrderBook
     path: ../../../src/Virtufin.Core/Position/IOrderBook.cs
     startLine: 10
@@ -52,7 +52,7 @@ items:
     remote:
       path: src/Virtufin.Core/Position/IOrderBook.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: Orders
     path: ../../../src/Virtufin.Core/Position/IOrderBook.cs
     startLine: 13
@@ -83,7 +83,7 @@ items:
     remote:
       path: src/Virtufin.Core/Position/IOrderBook.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: AddTransactions
     path: ../../../src/Virtufin.Core/Position/IOrderBook.cs
     startLine: 17

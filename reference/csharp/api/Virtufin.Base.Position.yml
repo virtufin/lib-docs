@@ -20,7 +20,7 @@ items:
     remote:
       path: src/Virtufin.Base/Position.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: Position
     path: ../../../src/Virtufin.Base/Position.cs
     startLine: 9
@@ -56,7 +56,7 @@ items:
     remote:
       path: src/Virtufin.Base/Position.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: .ctor
     path: ../../../src/Virtufin.Base/Position.cs
     startLine: 9
@@ -94,7 +94,7 @@ items:
     remote:
       path: src/Virtufin.Base/Position.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: Size
     path: ../../../src/Virtufin.Base/Position.cs
     startLine: 9
@@ -125,7 +125,7 @@ items:
     remote:
       path: src/Virtufin.Base/Position.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: AssetIdentifier
     path: ../../../src/Virtufin.Base/Position.cs
     startLine: 9
@@ -156,7 +156,7 @@ items:
     remote:
       path: src/Virtufin.Base/Position.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: Of
     path: ../../../src/Virtufin.Base/Position.cs
     startLine: 12

@@ -16,7 +16,7 @@ items:
     remote:
       path: src/Virtufin.Core/Behaviour/IDecide.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: IDecide
     path: ../../../src/Virtufin.Core/Behaviour/IDecide.cs
     startLine: 33

@@ -16,7 +16,7 @@ items:
     remote:
       path: src/Virtufin.Core/Clock/IClock.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: IClock
     path: ../../../src/Virtufin.Core/Clock/IClock.cs
     startLine: 24

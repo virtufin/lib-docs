@@ -20,7 +20,7 @@ items:
     remote:
       path: src/Virtufin.Base/Events/Risk/RiskEvent.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: MarginCalled
     path: ../../../src/Virtufin.Base/Events/Risk/RiskEvent.cs
     startLine: 83
@@ -66,7 +66,7 @@ items:
     remote:
       path: src/Virtufin.Base/Events/Risk/RiskEvent.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: .ctor
     path: ../../../src/Virtufin.Base/Events/Risk/RiskEvent.cs
     startLine: 83
@@ -104,7 +104,7 @@ items:
     remote:
       path: src/Virtufin.Base/Events/Risk/RiskEvent.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: MarginRatio
     path: ../../../src/Virtufin.Base/Events/Risk/RiskEvent.cs
     startLine: 83
@@ -137,7 +137,7 @@ items:
     remote:
       path: src/Virtufin.Base/Events/Risk/RiskEvent.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: CalledAt
     path: ../../../src/Virtufin.Base/Events/Risk/RiskEvent.cs
     startLine: 83
@@ -170,7 +170,7 @@ items:
     remote:
       path: src/Virtufin.Base/Events/Risk/RiskEvent.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: Time
     path: ../../../src/Virtufin.Base/Events/Risk/RiskEvent.cs
     startLine: 86

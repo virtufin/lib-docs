@@ -17,7 +17,7 @@ items:
     remote:
       path: src/Virtufin.Core/Behaviour/IIndicator.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: IIndicator
     path: ../../../src/Virtufin.Core/Behaviour/IIndicator.cs
     startLine: 14
@@ -71,7 +71,7 @@ items:
     remote:
       path: src/Virtufin.Core/Behaviour/IIndicator.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: Add
     path: ../../../src/Virtufin.Core/Behaviour/IIndicator.cs
     startLine: 20

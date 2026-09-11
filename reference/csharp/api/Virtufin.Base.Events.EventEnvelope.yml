@@ -30,7 +30,7 @@ items:
     remote:
       path: src/Virtufin.Base/Events/EventEnvelope.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: EventEnvelope
     path: ../../../src/Virtufin.Base/Events/EventEnvelope.cs
     startLine: 5
@@ -70,7 +70,7 @@ items:
     remote:
       path: src/Virtufin.Base/Events/EventEnvelope.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: ScenarioId
     path: ../../../src/Virtufin.Base/Events/EventEnvelope.cs
     startLine: 8
@@ -103,7 +103,7 @@ items:
     remote:
       path: src/Virtufin.Base/Events/EventEnvelope.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: ScenarioName
     path: ../../../src/Virtufin.Base/Events/EventEnvelope.cs
     startLine: 10
@@ -136,7 +136,7 @@ items:
     remote:
       path: src/Virtufin.Base/Events/EventEnvelope.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: MarketLane
     path: ../../../src/Virtufin.Base/Events/EventEnvelope.cs
     startLine: 12
@@ -169,7 +169,7 @@ items:
     remote:
       path: src/Virtufin.Base/Events/EventEnvelope.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: MarketSelector
     path: ../../../src/Virtufin.Base/Events/EventEnvelope.cs
     startLine: 14
@@ -202,7 +202,7 @@ items:
     remote:
       path: src/Virtufin.Base/Events/EventEnvelope.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: PortfolioLane
     path: ../../../src/Virtufin.Base/Events/EventEnvelope.cs
     startLine: 16
@@ -235,7 +235,7 @@ items:
     remote:
       path: src/Virtufin.Base/Events/EventEnvelope.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: StrategyLane
     path: ../../../src/Virtufin.Base/Events/EventEnvelope.cs
     startLine: 18
@@ -268,7 +268,7 @@ items:
     remote:
       path: src/Virtufin.Base/Events/EventEnvelope.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: ClockType
     path: ../../../src/Virtufin.Base/Events/EventEnvelope.cs
     startLine: 20
@@ -301,7 +301,7 @@ items:
     remote:
       path: src/Virtufin.Base/Events/EventEnvelope.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: EventTime
     path: ../../../src/Virtufin.Base/Events/EventEnvelope.cs
     startLine: 22
@@ -334,7 +334,7 @@ items:
     remote:
       path: src/Virtufin.Base/Events/EventEnvelope.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: WallTime
     path: ../../../src/Virtufin.Base/Events/EventEnvelope.cs
     startLine: 24
@@ -367,7 +367,7 @@ items:
     remote:
       path: src/Virtufin.Base/Events/EventEnvelope.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: CorrelationId
     path: ../../../src/Virtufin.Base/Events/EventEnvelope.cs
     startLine: 26
@@ -400,7 +400,7 @@ items:
     remote:
       path: src/Virtufin.Base/Events/EventEnvelope.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: RunId
     path: ../../../src/Virtufin.Base/Events/EventEnvelope.cs
     startLine: 28
@@ -433,7 +433,7 @@ items:
     remote:
       path: src/Virtufin.Base/Events/EventEnvelope.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: .ctor
     path: ../../../src/Virtufin.Base/Events/EventEnvelope.cs
     startLine: 31
@@ -487,7 +487,7 @@ items:
     remote:
       path: src/Virtufin.Base/Events/EventEnvelope.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: Empty
     path: ../../../src/Virtufin.Base/Events/EventEnvelope.cs
     startLine: 58
@@ -518,7 +518,7 @@ items:
     remote:
       path: src/Virtufin.Base/Events/EventEnvelope.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: Equals
     path: ../../../src/Virtufin.Base/Events/EventEnvelope.cs
     startLine: 72

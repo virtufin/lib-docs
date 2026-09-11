@@ -19,7 +19,7 @@ items:
     remote:
       path: src/Virtufin.Base/Execution/Executors.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: LiveExecutorBase
     path: ../../../src/Virtufin.Base/Execution/Executors.cs
     startLine: 184
@@ -90,7 +90,7 @@ items:
     remote:
       path: src/Virtufin.Base/Execution/Executors.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: Initial
     path: ../../../src/Virtufin.Base/Execution/Executors.cs
     startLine: 191
@@ -125,7 +125,7 @@ items:
     remote:
       path: src/Virtufin.Base/Execution/Executors.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: ProcessAsync
     path: ../../../src/Virtufin.Base/Execution/Executors.cs
     startLine: 207
@@ -178,7 +178,7 @@ items:
     remote:
       path: src/Virtufin.Base/Execution/Executors.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: ExecuteAsync
     path: ../../../src/Virtufin.Base/Execution/Executors.cs
     startLine: 210

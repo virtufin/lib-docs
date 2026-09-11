@@ -16,7 +16,7 @@ items:
     remote:
       path: src/Virtufin.Base/EntityIdentifier.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: EntityIdentifier
     path: ../../../src/Virtufin.Base/EntityIdentifier.cs
     startLine: 4

@@ -23,7 +23,7 @@ items:
     remote:
       path: src/Virtufin.Base/Scenarios/InMemoryScenarioRegistry.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: ScenarioConfiguration
     path: ../../../src/Virtufin.Base/Scenarios/InMemoryScenarioRegistry.cs
     startLine: 87
@@ -62,7 +62,7 @@ items:
     remote:
       path: src/Virtufin.Base/Scenarios/InMemoryScenarioRegistry.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: .ctor
     path: ../../../src/Virtufin.Base/Scenarios/InMemoryScenarioRegistry.cs
     startLine: 87
@@ -112,7 +112,7 @@ items:
     remote:
       path: src/Virtufin.Base/Scenarios/InMemoryScenarioRegistry.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: Id
     path: ../../../src/Virtufin.Base/Scenarios/InMemoryScenarioRegistry.cs
     startLine: 88
@@ -145,7 +145,7 @@ items:
     remote:
       path: src/Virtufin.Base/Scenarios/InMemoryScenarioRegistry.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: Name
     path: ../../../src/Virtufin.Base/Scenarios/InMemoryScenarioRegistry.cs
     startLine: 89
@@ -178,7 +178,7 @@ items:
     remote:
       path: src/Virtufin.Base/Scenarios/InMemoryScenarioRegistry.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: MarketLane
     path: ../../../src/Virtufin.Base/Scenarios/InMemoryScenarioRegistry.cs
     startLine: 90
@@ -209,7 +209,7 @@ items:
     remote:
       path: src/Virtufin.Base/Scenarios/InMemoryScenarioRegistry.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: MarketSelector
     path: ../../../src/Virtufin.Base/Scenarios/InMemoryScenarioRegistry.cs
     startLine: 91
@@ -240,7 +240,7 @@ items:
     remote:
       path: src/Virtufin.Base/Scenarios/InMemoryScenarioRegistry.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: PortfolioLane
     path: ../../../src/Virtufin.Base/Scenarios/InMemoryScenarioRegistry.cs
     startLine: 92
@@ -271,7 +271,7 @@ items:
     remote:
       path: src/Virtufin.Base/Scenarios/InMemoryScenarioRegistry.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: StrategyLane
     path: ../../../src/Virtufin.Base/Scenarios/InMemoryScenarioRegistry.cs
     startLine: 93

@@ -17,7 +17,7 @@ items:
     remote:
       path: artifacts/Virtufin/Data/FlatBuffers/Int32Value.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: Int32ValueVerify
     path: ../../../artifacts/Virtufin/Data/FlatBuffers/Int32Value.cs
     startLine: 39
@@ -52,7 +52,7 @@ items:
     remote:
       path: artifacts/Virtufin/Data/FlatBuffers/Int32Value.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: Verify
     path: ../../../artifacts/Virtufin/Data/FlatBuffers/Int32Value.cs
     startLine: 41

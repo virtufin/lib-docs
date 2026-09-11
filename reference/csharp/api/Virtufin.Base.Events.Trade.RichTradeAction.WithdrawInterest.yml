@@ -19,7 +19,7 @@ items:
     remote:
       path: src/Virtufin.Base/Events/Trade/RichTradeAction.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: WithdrawInterest
     path: ../../../src/Virtufin.Base/Events/Trade/RichTradeAction.cs
     startLine: 76
@@ -60,7 +60,7 @@ items:
     remote:
       path: src/Virtufin.Base/Events/Trade/RichTradeAction.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: .ctor
     path: ../../../src/Virtufin.Base/Events/Trade/RichTradeAction.cs
     startLine: 76
@@ -98,7 +98,7 @@ items:
     remote:
       path: src/Virtufin.Base/Events/Trade/RichTradeAction.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: Action
     path: ../../../src/Virtufin.Base/Events/Trade/RichTradeAction.cs
     startLine: 77
@@ -129,7 +129,7 @@ items:
     remote:
       path: src/Virtufin.Base/Events/Trade/RichTradeAction.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: StrategyId
     path: ../../../src/Virtufin.Base/Events/Trade/RichTradeAction.cs
     startLine: 78

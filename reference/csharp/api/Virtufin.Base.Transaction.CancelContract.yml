@@ -19,7 +19,7 @@ items:
     remote:
       path: src/Virtufin.Base/Transaction.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: CancelContract
     path: ../../../src/Virtufin.Base/Transaction.cs
     startLine: 47
@@ -62,7 +62,7 @@ items:
     remote:
       path: src/Virtufin.Base/Transaction.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: Id
     path: ../../../src/Virtufin.Base/Transaction.cs
     startLine: 50
@@ -93,7 +93,7 @@ items:
     remote:
       path: src/Virtufin.Base/Transaction.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: .ctor
     path: ../../../src/Virtufin.Base/Transaction.cs
     startLine: 53
@@ -127,7 +127,7 @@ items:
     remote:
       path: src/Virtufin.Base/Transaction.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: RelatedContract
     path: ../../../src/Virtufin.Base/Transaction.cs
     startLine: 56

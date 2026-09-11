@@ -16,7 +16,7 @@ items:
     remote:
       path: src/Virtufin.Core/Identifiers/ITimeStamp.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: ITimeStamp
     path: ../../../src/Virtufin.Core/Identifiers/ITimeStamp.cs
     startLine: 13

@@ -24,7 +24,7 @@ items:
     remote:
       path: src/Virtufin.Base/Events/Trade/TradeEvent.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: FillReceived
     path: ../../../src/Virtufin.Base/Events/Trade/TradeEvent.cs
     startLine: 81
@@ -70,7 +70,7 @@ items:
     remote:
       path: src/Virtufin.Base/Events/Trade/TradeEvent.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: Action
     path: ../../../src/Virtufin.Base/Events/Trade/TradeEvent.cs
     startLine: 84
@@ -104,7 +104,7 @@ items:
     remote:
       path: src/Virtufin.Base/Events/Trade/TradeEvent.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: OrderId
     path: ../../../src/Virtufin.Base/Events/Trade/TradeEvent.cs
     startLine: 86
@@ -137,7 +137,7 @@ items:
     remote:
       path: src/Virtufin.Base/Events/Trade/TradeEvent.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: FilledQuantity
     path: ../../../src/Virtufin.Base/Events/Trade/TradeEvent.cs
     startLine: 88
@@ -170,7 +170,7 @@ items:
     remote:
       path: src/Virtufin.Base/Events/Trade/TradeEvent.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: FillPrice
     path: ../../../src/Virtufin.Base/Events/Trade/TradeEvent.cs
     startLine: 90
@@ -203,7 +203,7 @@ items:
     remote:
       path: src/Virtufin.Base/Events/Trade/TradeEvent.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: Fee
     path: ../../../src/Virtufin.Base/Events/Trade/TradeEvent.cs
     startLine: 92
@@ -236,7 +236,7 @@ items:
     remote:
       path: src/Virtufin.Base/Events/Trade/TradeEvent.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: FilledAt
     path: ../../../src/Virtufin.Base/Events/Trade/TradeEvent.cs
     startLine: 94
@@ -269,7 +269,7 @@ items:
     remote:
       path: src/Virtufin.Base/Events/Trade/TradeEvent.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: Time
     path: ../../../src/Virtufin.Base/Events/Trade/TradeEvent.cs
     startLine: 96
@@ -303,7 +303,7 @@ items:
     remote:
       path: src/Virtufin.Base/Events/Trade/TradeEvent.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: .ctor
     path: ../../../src/Virtufin.Base/Events/Trade/TradeEvent.cs
     startLine: 99

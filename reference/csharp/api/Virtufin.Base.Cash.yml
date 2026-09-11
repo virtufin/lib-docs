@@ -21,7 +21,7 @@ items:
     remote:
       path: src/Virtufin.Base/Cash.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: Cash
     path: ../../../src/Virtufin.Base/Cash.cs
     startLine: 16
@@ -65,7 +65,7 @@ items:
     remote:
       path: src/Virtufin.Base/Cash.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: Currency
     path: ../../../src/Virtufin.Base/Cash.cs
     startLine: 19
@@ -96,7 +96,7 @@ items:
     remote:
       path: src/Virtufin.Base/Cash.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: Amount
     path: ../../../src/Virtufin.Base/Cash.cs
     startLine: 22
@@ -127,7 +127,7 @@ items:
     remote:
       path: src/Virtufin.Base/Cash.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: .ctor
     path: ../../../src/Virtufin.Base/Cash.cs
     startLine: 27
@@ -165,7 +165,7 @@ items:
     remote:
       path: src/Virtufin.Base/Cash.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: Zero
     path: ../../../src/Virtufin.Base/Cash.cs
     startLine: 34
@@ -196,7 +196,7 @@ items:
     remote:
       path: src/Virtufin.Base/Cash.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: ToString
     path: ../../../src/Virtufin.Base/Cash.cs
     startLine: 37

@@ -21,7 +21,7 @@ items:
     remote:
       path: src/Virtufin.Base/Events/Trade/RichTradeAction.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: Transfer
     path: ../../../src/Virtufin.Base/Events/Trade/RichTradeAction.cs
     startLine: 58
@@ -62,7 +62,7 @@ items:
     remote:
       path: src/Virtufin.Base/Events/Trade/RichTradeAction.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: .ctor
     path: ../../../src/Virtufin.Base/Events/Trade/RichTradeAction.cs
     startLine: 58
@@ -106,7 +106,7 @@ items:
     remote:
       path: src/Virtufin.Base/Events/Trade/RichTradeAction.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: Action
     path: ../../../src/Virtufin.Base/Events/Trade/RichTradeAction.cs
     startLine: 59
@@ -137,7 +137,7 @@ items:
     remote:
       path: src/Virtufin.Base/Events/Trade/RichTradeAction.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: SenderAccount
     path: ../../../src/Virtufin.Base/Events/Trade/RichTradeAction.cs
     startLine: 60
@@ -168,7 +168,7 @@ items:
     remote:
       path: src/Virtufin.Base/Events/Trade/RichTradeAction.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: ReceiverAccount
     path: ../../../src/Virtufin.Base/Events/Trade/RichTradeAction.cs
     startLine: 61
@@ -199,7 +199,7 @@ items:
     remote:
       path: src/Virtufin.Base/Events/Trade/RichTradeAction.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: Fee
     path: ../../../src/Virtufin.Base/Events/Trade/RichTradeAction.cs
     startLine: 62

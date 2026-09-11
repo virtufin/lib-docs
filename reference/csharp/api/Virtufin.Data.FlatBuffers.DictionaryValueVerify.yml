@@ -17,7 +17,7 @@ items:
     remote:
       path: artifacts/Virtufin/Data/FlatBuffers/DictionaryValue.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: DictionaryValueVerify
     path: ../../../artifacts/Virtufin/Data/FlatBuffers/DictionaryValue.cs
     startLine: 45
@@ -52,7 +52,7 @@ items:
     remote:
       path: artifacts/Virtufin/Data/FlatBuffers/DictionaryValue.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: Verify
     path: ../../../artifacts/Virtufin/Data/FlatBuffers/DictionaryValue.cs
     startLine: 47

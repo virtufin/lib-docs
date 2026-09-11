@@ -17,7 +17,7 @@ items:
     remote:
       path: src/Virtufin.Base/Events/Risk/RichRiskEvent.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: RichRiskEvent
     path: ../../../src/Virtufin.Base/Events/Risk/RichRiskEvent.cs
     startLine: 15
@@ -79,7 +79,7 @@ items:
     remote:
       path: src/Virtufin.Base/Events/Risk/RichRiskEvent.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: Time
     path: ../../../src/Virtufin.Base/Events/Risk/RichRiskEvent.cs
     startLine: 21

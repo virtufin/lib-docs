@@ -17,7 +17,7 @@ items:
     remote:
       path: artifacts/Virtufin/Data/FlatBuffers/NoneValue.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: NoneValueVerify
     path: ../../../artifacts/Virtufin/Data/FlatBuffers/NoneValue.cs
     startLine: 30
@@ -52,7 +52,7 @@ items:
     remote:
       path: artifacts/Virtufin/Data/FlatBuffers/NoneValue.cs
       branch: master
-      repo: https://gitea.haenerconsulting.com/virtufin/virtufin-dotnet
+      repo: https://git.haenerconsulting.com/virtufin/dotnet
     id: Verify
     path: ../../../artifacts/Virtufin/Data/FlatBuffers/NoneValue.cs
     startLine: 32
